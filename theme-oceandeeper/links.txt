@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=pierrenel.theme-oceandeeper
+https://orta.io/vscode-themes/images//OceanDeeper.png

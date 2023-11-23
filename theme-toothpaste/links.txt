@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=aalaap.theme-toothpaste
+https://orta.io/vscode-themes/images//Toothpaste.png

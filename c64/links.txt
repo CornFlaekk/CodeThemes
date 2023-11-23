@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=perragnaredin.c64
+https://orta.io/vscode-themes/images//C64.png

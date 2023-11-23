@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=mrded.railscasts
+https://orta.io/vscode-themes/images//RailsCasts.png

@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=tushortz.theme-wildlife
+https://orta.io/vscode-themes/images//Wildlife-Light.png

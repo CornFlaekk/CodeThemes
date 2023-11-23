@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=chiragpat.tomorrow-and-tomorrow-night-operator-mono-theme
+https://orta.io/vscode-themes/images//Tomorrow%20Night%20Operator%20Mono.png

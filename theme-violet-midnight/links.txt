@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=mindFULL.theme-violet-midnight
+https://orta.io/vscode-themes/images//Violet%20Midnight.png

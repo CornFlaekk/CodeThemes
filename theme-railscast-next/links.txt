@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=edus44.theme-railscast-next
+https://orta.io/vscode-themes/images//Railscast%20Next.png

@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=joseroux.theme-simplefocus
+https://orta.io/vscode-themes/images//Simple%20Focus.png

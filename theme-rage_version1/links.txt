@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=henrysoftware.theme-rage
+https://orta.io/vscode-themes/images//RageDark.png

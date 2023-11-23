@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=kenwheeler.theme-yeezy
+https://orta.io/vscode-themes/images//Yeezy.png

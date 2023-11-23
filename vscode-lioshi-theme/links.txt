@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=lioshi.vscode-lioshi-theme
+https://orta.io/vscode-themes/images//lioshi%20theme.png

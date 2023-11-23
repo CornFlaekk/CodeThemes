@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=EdolyneLong.SMYCKTheme
+https://orta.io/vscode-themes/images//Smyck.png

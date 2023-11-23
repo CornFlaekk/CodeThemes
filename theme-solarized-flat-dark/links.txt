@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=rmnl.theme-solarized-flat-dark
+https://orta.io/vscode-themes/images//Solarized%20Flat.png

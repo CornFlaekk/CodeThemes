@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=pixeler.theme-pixeler
+https://orta.io/vscode-themes/images//Pixeler%20Ocean.png

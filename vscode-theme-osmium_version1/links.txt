@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=stickycube.vscode-theme-osmium
+https://orta.io/vscode-themes/images//Osmium%20Dark.png

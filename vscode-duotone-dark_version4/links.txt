@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=sallar.vscode-duotone-dark
+https://orta.io/vscode-themes/images//DuoTone%20Dark%20Sky.png

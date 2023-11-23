@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=amomum.theme-verdigris-light
+https://orta.io/vscode-themes/images//Verdigris%20Light.png

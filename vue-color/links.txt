@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=staychan.vue-color
+https://orta.io/vscode-themes/images//Vue%20Theme.png

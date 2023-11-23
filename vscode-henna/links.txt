@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=httpsterio.vscode-henna
+https://orta.io/vscode-themes/images//henna.png

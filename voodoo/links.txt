@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=liamsheppard.voodoo
+https://orta.io/vscode-themes/images//Voodoo.png

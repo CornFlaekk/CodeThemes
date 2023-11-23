@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=nisimiko.theme-whitehat
+https://orta.io/vscode-themes/images//WhiteHat.png

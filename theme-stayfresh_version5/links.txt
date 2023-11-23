@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=piotrekfracek.theme-stayfresh
+https://orta.io/vscode-themes/images//stayfresh-warm.png

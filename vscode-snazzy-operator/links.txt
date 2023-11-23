@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=aaronthomas.vscode-snazzy-operator
+https://orta.io/vscode-themes/images//Snazzy%20Operator.png

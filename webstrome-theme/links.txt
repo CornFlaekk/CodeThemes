@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=zhang.webstrome-theme
+https://orta.io/vscode-themes/images//webstrome-Darula.png

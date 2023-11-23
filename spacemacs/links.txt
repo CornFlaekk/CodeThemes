@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=rkwan94.spacemacs
+https://orta.io/vscode-themes/images//Spacemacs.png

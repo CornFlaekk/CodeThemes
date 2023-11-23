@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=Septh.wow-bundle
+https://orta.io/vscode-themes/images//Dark+%20(WoW).png

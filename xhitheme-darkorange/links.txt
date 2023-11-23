@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=xhi2art.xhitheme-darkorange
+https://orta.io/vscode-themes/images//XhiTheme%20DarkOrange.png

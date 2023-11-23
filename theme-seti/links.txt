@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=tnaseem.theme-seti
+https://orta.io/vscode-themes/images//Seti%20Modified.png

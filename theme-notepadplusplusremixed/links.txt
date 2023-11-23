@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=sh4dow.theme-notepadplusplusremixed
+https://orta.io/vscode-themes/images//NotepadPlusPlus%20Remixed%20Theme.png

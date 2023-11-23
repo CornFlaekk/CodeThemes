@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=timdang.theme-tech49
+https://orta.io/vscode-themes/images//Tech49.png

@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=SmukkeKim.theme-setimonokai
+https://orta.io/vscode-themes/images//Seti%20Monokai.png

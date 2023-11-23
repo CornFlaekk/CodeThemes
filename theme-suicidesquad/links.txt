@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=designbright.theme-suicidesquad
+https://orta.io/vscode-themes/images//Suicide%20Squad%20Theme.png

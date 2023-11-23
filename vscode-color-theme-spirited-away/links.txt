@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=MaxfieldWalker.vscode-color-theme-spirited-away
+https://orta.io/vscode-themes/images//Spirited%20Away.png

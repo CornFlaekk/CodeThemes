@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=gllwy.theme-oceanicitalic
+https://orta.io/vscode-themes/images//Oceanic%20Next%20with%20Italics.png

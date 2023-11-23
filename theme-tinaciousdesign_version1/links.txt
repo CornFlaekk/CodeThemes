@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=tinaciousdesign.theme-tinaciousdesign
+https://orta.io/vscode-themes/images//Tinacious%20Design%20(Light).png

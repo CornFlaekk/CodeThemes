@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=notoroszbig.theme-nohappinessincolors
+https://orta.io/vscode-themes/images//No%20Happiness%20in%20Colors%20Theme.png

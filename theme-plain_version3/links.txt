@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=gerred.theme-plain
+https://orta.io/vscode-themes/images//Plain%20(Dark).png

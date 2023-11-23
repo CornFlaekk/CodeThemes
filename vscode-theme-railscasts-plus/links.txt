@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=marlosirapuan.vscode-theme-railscasts-plus
+https://orta.io/vscode-themes/images//RailsCasts%20Plus%20Theme.png

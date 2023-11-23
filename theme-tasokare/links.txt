@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=you06.theme-tasokare
+https://orta.io/vscode-themes/images//Tasokare.png

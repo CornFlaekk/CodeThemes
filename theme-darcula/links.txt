@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=ceps.theme-darcula
+https://orta.io/vscode-themes/images//Darcula.png

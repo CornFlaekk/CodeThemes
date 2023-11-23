@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=caneparicorrado.uni-syntax
+https://orta.io/vscode-themes/images//uni-theme.png

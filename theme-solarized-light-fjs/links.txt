@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=veggiemonk.theme-solarized-light-fjs
+https://orta.io/vscode-themes/images//Solarized-light-fjs.png

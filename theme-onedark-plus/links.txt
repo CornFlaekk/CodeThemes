@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=anaganisk.theme-onedark-plus
+https://orta.io/vscode-themes/images//One%20Dark%20Plus.png
