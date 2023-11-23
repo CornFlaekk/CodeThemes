@@ -1,2 +1,0 @@
-https://marketplace.visualstudio.com/items?itemName=smlombardi.slime
-https://orta.io/vscode-themes/images//Slime.png

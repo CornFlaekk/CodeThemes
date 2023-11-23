@@ -1,2 +1,0 @@
-https://marketplace.visualstudio.com/items?itemName=pzuraq.theme-oceanic-reef
-https://orta.io/vscode-themes/images//Oceanic%20Reef.png

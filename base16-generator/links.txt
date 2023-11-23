@@ -1,2 +1,0 @@
-https://marketplace.visualstudio.com/items?itemName=golf1052.base16-generator
-https://orta.io/vscode-themes/images//Base16%20Default%20Dark.png

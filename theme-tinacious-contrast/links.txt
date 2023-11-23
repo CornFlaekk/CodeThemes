@@ -1,2 +1,0 @@
-https://marketplace.visualstudio.com/items?itemName=sugarpirate.theme-tinacious-contrast
-https://orta.io/vscode-themes/images//Tinacious%20Contrast.png

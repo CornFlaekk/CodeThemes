@@ -1,2 +1,0 @@
-https://marketplace.visualstudio.com/items?itemName=therealmarv.vscode-theme-dark-atom-dark-green-cursor
-https://orta.io/vscode-themes/images//Dark%20Atom%20Dark%20Green%20Cursor.png

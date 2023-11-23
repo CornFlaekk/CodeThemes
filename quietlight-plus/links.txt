@@ -1,2 +1,0 @@
-https://marketplace.visualstudio.com/items?itemName=ban.quietlight-plus
-https://orta.io/vscode-themes/images//Quiet%20Light+.png

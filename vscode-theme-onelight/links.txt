@@ -1,2 +1,0 @@
-https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onelight
-https://orta.io/vscode-themes/images//Atom%20One%20Light.png

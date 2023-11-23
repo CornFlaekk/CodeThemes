@@ -1,2 +1,0 @@
-https://marketplace.visualstudio.com/items?itemName=tomokki.tomokki-theme
-https://orta.io/vscode-themes/images//Tomokki%20Theme.png

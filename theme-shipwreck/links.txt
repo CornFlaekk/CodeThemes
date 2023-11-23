@@ -1,2 +1,0 @@
-https://marketplace.visualstudio.com/items?itemName=g00d.theme-shipwreck
-https://orta.io/vscode-themes/images//Shipwreck%20Theme.png

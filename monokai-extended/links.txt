@@ -1,2 +1,0 @@
-https://marketplace.visualstudio.com/items?itemName=SuperPaintman.monokai-extended
-https://orta.io/vscode-themes/images//Monokai%20Extended.png

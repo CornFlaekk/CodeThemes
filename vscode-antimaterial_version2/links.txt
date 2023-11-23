@@ -1,2 +1,0 @@
-https://marketplace.visualstudio.com/items?itemName=tatyshev.vscode-antimaterial
-https://orta.io/vscode-themes/images//Antimaterial%20-%20Solarized.png

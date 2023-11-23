@@ -1,2 +1,0 @@
-https://marketplace.visualstudio.com/items?itemName=SimoneOlivieri.visual-studio-light-theme
-https://orta.io/vscode-themes/images//Visual%20Studio%20Light%20Theme.png

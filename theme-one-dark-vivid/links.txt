@@ -1,2 +1,0 @@
-https://marketplace.visualstudio.com/items?itemName=kkozee.theme-one-dark-vivid
-https://orta.io/vscode-themes/images//One%20Dark%20Vivid.png

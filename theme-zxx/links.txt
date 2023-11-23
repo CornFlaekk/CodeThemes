@@ -1,2 +1,0 @@
-https://marketplace.visualstudio.com/items?itemName=zenzz.theme-zxx
-https://orta.io/vscode-themes/images//zxx%20light.png

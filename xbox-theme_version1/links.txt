@@ -1,2 +1,0 @@
-https://marketplace.visualstudio.com/items?itemName=hector-jimenez.xbox-theme
-https://orta.io/vscode-themes/images//Xbox%20Dark%20Theme.png

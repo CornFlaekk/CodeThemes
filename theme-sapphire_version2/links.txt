@@ -1,2 +1,0 @@
-https://marketplace.visualstudio.com/items?itemName=Tyriar.theme-sapphire
-https://orta.io/vscode-themes/images//Sapphire%20(Dim).png

@@ -1,2 +1,0 @@
-https://marketplace.visualstudio.com/items?itemName=alexanderbast.vscode-snazzy
-https://orta.io/vscode-themes/images//Snazzy.png

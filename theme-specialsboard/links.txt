@@ -1,2 +1,0 @@
-https://marketplace.visualstudio.com/items?itemName=filipmares.theme-specialsboard
-https://orta.io/vscode-themes/images//Specials%20Board%20.png

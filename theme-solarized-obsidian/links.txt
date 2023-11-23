@@ -1,2 +1,0 @@
-https://marketplace.visualstudio.com/items?itemName=superzadeh.theme-solarized-obsidian
-https://orta.io/vscode-themes/images//Solarized%20Obsidian.png

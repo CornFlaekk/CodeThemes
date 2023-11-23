@@ -1,2 +1,0 @@
-https://marketplace.visualstudio.com/items?itemName=viatsko.theme-base16-ocean-dark
-https://orta.io/vscode-themes/images//Base16%20Ocean%20Dark.png

@@ -1,2 +1,0 @@
-https://marketplace.visualstudio.com/items?itemName=xaver.theme-tubbs
-https://orta.io/vscode-themes/images//Tubbs.png

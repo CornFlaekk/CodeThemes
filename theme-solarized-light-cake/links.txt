@@ -1,2 +1,0 @@
-https://marketplace.visualstudio.com/items?itemName=tryggvigy.theme-solarized-light-cake
-https://orta.io/vscode-themes/images//Solarized%20Light%20Cake.png

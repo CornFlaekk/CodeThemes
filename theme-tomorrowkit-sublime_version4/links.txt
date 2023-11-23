@@ -1,2 +1,0 @@
-https://marketplace.visualstudio.com/items?itemName=joshpeng.theme-tomorrowkit-sublime
-https://orta.io/vscode-themes/images//Tomorrow%20Night%20Eighties%20(Sublime).png

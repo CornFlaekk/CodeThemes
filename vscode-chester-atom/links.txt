@@ -1,2 +1,0 @@
-https://marketplace.visualstudio.com/items?itemName=chriseckenrode.vscode-chester-atom
-https://orta.io/vscode-themes/images//Chester%20Atom.png

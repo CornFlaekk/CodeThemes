@@ -1,2 +1,0 @@
-https://marketplace.visualstudio.com/items?itemName=rphlmr.visual-gruvbox-medium-dark
-https://orta.io/vscode-themes/images//Visual%20Gruvbox%20(Medium%20Dark).png

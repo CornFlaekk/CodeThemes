@@ -1,2 +1,0 @@
-https://marketplace.visualstudio.com/items?itemName=luqimin.tiny-light
-https://orta.io/vscode-themes/images//Tiny%20Light.png

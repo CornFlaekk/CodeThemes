@@ -1,2 +1,0 @@
-https://marketplace.visualstudio.com/items?itemName=ntb.theme-symfony-dark
-https://orta.io/vscode-themes/images//Symfony%20Dark.png

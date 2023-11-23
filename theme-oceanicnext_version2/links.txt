@@ -1,2 +1,0 @@
-https://marketplace.visualstudio.com/items?itemName=kaicataldo.theme-oceanicnext
-https://orta.io/vscode-themes/images//Oceanic%20Next%20Dark%20Operator.png

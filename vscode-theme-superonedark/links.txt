@@ -1,2 +1,0 @@
-https://marketplace.visualstudio.com/items?itemName=seansassenrath.vscode-theme-superonedark
-https://orta.io/vscode-themes/images//Super%20One%20Dark.png

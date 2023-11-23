@@ -1,2 +1,0 @@
-https://marketplace.visualstudio.com/items?itemName=codepunkt.vscode-oldhope-italics
-https://orta.io/vscode-themes/images//An%20old%20Hope%20with%20italics.png

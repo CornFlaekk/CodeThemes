@@ -1,2 +1,0 @@
-https://marketplace.visualstudio.com/items?itemName=kennethreitz.theme-tomorrownight-italics
-https://orta.io/vscode-themes/images//Tomorrow%20Night%20Italics.png

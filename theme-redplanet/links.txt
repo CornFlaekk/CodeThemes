@@ -1,2 +1,0 @@
-https://marketplace.visualstudio.com/items?itemName=devaio.theme-redplanet
-https://orta.io/vscode-themes/images//RedPlanet.png
