@@ -9,11 +9,12 @@ def main():
     for folder in os.listdir("."):
         if os.path.isdir(folder):
             with open(os.path.join(".",folder, "comments.csv"), "w") as f_output:
-                f_output.write("comments\n")
-                for i in range(7, 20):
+                f_output.write("rating; comment\n")
+                for i in range(random.randint(5,50)):
                     line = random.choice(lines)
                     f_output.write(line)
                 
 
 if __name__ == "__main__":
     main()
+
